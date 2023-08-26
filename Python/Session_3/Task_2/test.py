@@ -1,0 +1,17 @@
+import pyautogui
+import time
+pyautogui.hotkey('win')
+time.sleep(2)
+pyautogui.write('Firefox')
+time.sleep(2)
+pyautogui.hotkey('enter')
+time.sleep(7)
+pyautogui.moveTo(x=440,y=115)
+pyautogui.click()
+pyautogui.write('gmail.com')
+pyautogui.hotkey('enter')
+time.sleep(15)
+pyautogui.moveTo(x=923,y=249)
+pyautogui.click()
+pyautogui.moveTo(x=669,y=248)
+pyautogui.click()
