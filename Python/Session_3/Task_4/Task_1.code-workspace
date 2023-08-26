@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../Task_1"
+		},
+		{
+			"path": "../Task_2"
+		},
+		{
+			"path": "../Task_3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.cursorStyle": "line",
+		"editor.cursorSmoothCaretAnimation": "off",
+		"editor.cursorBlinking": "blink"
+	}
+}
