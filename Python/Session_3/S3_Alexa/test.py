@@ -48,9 +48,10 @@ def Respond(voice_data):
         Bixby_Speek('ahla meca aleek')
 
     Bixby_Speek('ahla mesa aleek')
-   
+
+Bixby_Speek("I'am ELXA")   
 Bixby_Speek('How can i help you')
 
 while 1:
     voice_data=record()
-    Respond(voice_data)
+    Respond('name')
